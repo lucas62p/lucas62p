@@ -10,7 +10,6 @@ I am a soon-to-be Master's graduate in Control Systems and Computer Vision from 
 * **Education:** Master of Science (MSc) in Engineering, specializing in Control Systems & Computer Vision.
 * **Current Work:** R&D Engineering Intern in Computer Vision & AI. I develop synthetic image generators (Blender/BlenderProc) and implement active learning pipelines (hard example mining) to train state-of-the-art object detection models (YOLO, RF-DETR).
 * **PhD Objective:** Actively seeking a PhD position to research **visual generative modeling / latent world models** and real-time anomaly detection for autonomous systems or spatial robotics.
-  * **[Read my Research Statement (PDF)](./Research_Statement_Lucas_Ponchon.pdf)**
 
 ---
 
